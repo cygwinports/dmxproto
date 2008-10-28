@@ -1,6 +1,6 @@
 dmxproto
 ------------------------------------------
-Xorg DMX protocol headers
+X.Org DMX protocol headers
 
 Build requirements:
   cygwin-1.5.18-1
